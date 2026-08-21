@@ -1,4 +1,4 @@
-    package FunctionsAndMethods;
+    package no001FunctionsAndMethods;
 
     public class Swaping {
         public static void main(String[] args) {
