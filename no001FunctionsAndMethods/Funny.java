@@ -1,11 +1,11 @@
 package no001FunctionsAndMethods;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Funny {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt(); 
+        //Scanner sc = new Scanner(System.in);
+        int n = 10; 
            for (int i = 1; i <= n; i++) {
 
             for (int j = 1; j <= n - i; j++) {
@@ -30,7 +30,7 @@ public class Funny {
                 System.out.print("*");
             }
             System.out.println();
-        sc.close();
+       // sc.close();
     }
     
 }
